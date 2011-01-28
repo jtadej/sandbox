@@ -1,1 +1,2 @@
 Added after bundle created.
+Altering before bundling third time.
